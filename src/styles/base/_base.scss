@@ -2,8 +2,10 @@ html {
   font-size: 62.5%;
 }
 body {
+  color: $black;
   font-family: Helevetica, Arial, sans-serif;
   font-size: $m-size;
+  line-height: 1.6;
 }
 
 button {
